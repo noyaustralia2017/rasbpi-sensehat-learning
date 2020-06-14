@@ -1,6 +1,7 @@
 #https://www.youtube.com/watch?v=7uo99ODgabQ&feature=emb_title - make light flash or turn on code learnt from here and then modified
 #code was sourced from https://www.instructables.com/id/Raspberry-Pi-Park-Sensor/ and modified to meet the needs of the task as there were errors found in the source code.
 #view the instructions to the actual build here: https://bndhealtheddies201.wixsite.com/piprojects
+#find instructions in folder
 import RPi.GPIO as GPIO  #import libraries
 import time              #import libraries
 GPIO.setwarnings(False)  #getting rid of any warnings that may block the code from running.
